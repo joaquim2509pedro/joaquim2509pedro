@@ -4,6 +4,7 @@
 - ***Langues***
 - Portugais
 - Français
+- ***eamil***: j.pedrosebastiao@it-students.fr
 - Anglais (A2)
 - ***Mes Compétences***
 - Capacite Oraganisationelle
