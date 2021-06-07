@@ -1,6 +1,16 @@
-- 👋 hello bonjour je suis Joaquim Pedro 
-- 👀 I’m interested in ... dans la politique.culture. informatique.desport.
-- 🌱 I’m currently learning ... je suis dans une formation testeur .
+- 👋 hello bonjour je suis ***_Joaquim Pedro_***   
+- 👀 ***je suis interesse*** pour la politique.culture. informatique.desport.leiture. et Bibiographi de l'histoire Africaine.
+- 🌱 I’m currently learning ... je suis dans une formation testeur logiel.
+- ***Langues***
+- Portugais
+- Français
+- Anglais (A2)
+- ***Mes Compétences***
+- Capacite Oraganisationelle
+- Bon relactionnel 
+- Autonome
+- Rigoureux
+- 
 - 💞️ I’m looking to collaborate on ...![ soleil ](https://github.com/joaquim2509pedro/joaquim2509pedro/blob/main/horizonte.jpg)
 - 📫 How to reach me ...
 
