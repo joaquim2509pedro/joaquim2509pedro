@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @joaquim2509pedro Bom dia 
+- 👋 hello bonjour je suis Joaquim Pedro 
 - 👀 I’m interested in ... dans la politique.culture. informatique.desport.
 - 🌱 I’m currently learning ... je suis dans une formation testeur .
 - 💞️ I’m looking to collaborate on ...![ soleil ](https://github.com/joaquim2509pedro/joaquim2509pedro/blob/main/horizonte.jpg)
