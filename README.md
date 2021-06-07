@@ -1,5 +1,5 @@
 - 👋 hello bonjour je suis ***_Joaquim Pedro_***   
-- 👀 ***je suis interesse*** pour la politique.culture. informatique.desport.leiture. et Bibiographi de l'histoire Africaine.
+- 👀 ***je suis interesse*** pour la politique.culture. informatique.desport.leiture. et Bibliographie de l'histoire Africaine.
 - 🌱 I’m currently learning ... je suis dans une formation testeur logiel.
 - ***Langues***
 - Portugais
